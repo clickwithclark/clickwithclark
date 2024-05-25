@@ -1,8 +1,15 @@
 # Meet Clark  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/188px-Flag_of_Trinidad_and_Tobago.svg.png" width="15" alt ="🇹🇹"/>
  I am a Trinbagonian   front-end developer with a background in public service.
+<br/>
+</br>
+</br>
+</br>
+</br>
+
+
 
 <!-- Social Media -->
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="www.linkedin.com/in/kiel-c-3a0b59253">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
