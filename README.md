@@ -1,6 +1,6 @@
 # Meet Clark  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/188px-Flag_of_Trinidad_and_Tobago.svg.png" width="15" alt ="🇹🇹"/>
  I am a Trinbagonian   front-end developer with a background in public service.
-<br><br><br><br><br>
+
 
 
 
