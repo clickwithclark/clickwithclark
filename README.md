@@ -42,7 +42,7 @@
 </table>
 
 <!-- Tools I'm Interested in learning -->
-<h3>🔭 Tools I'm Interested in Learning </h3>
+<h3>👀 Tools I'm Interested in Learning </h3>
 <table>
   <tr>
     <td><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></td>
