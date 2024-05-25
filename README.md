@@ -36,6 +36,7 @@
      <td><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
     <td><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></td>
      <td ><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></td>
+     <td ><img alt="wix" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" /></td>
  
   </tr>
 </table>
