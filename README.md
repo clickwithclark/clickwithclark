@@ -1,10 +1,6 @@
 # Meet Clark  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/188px-Flag_of_Trinidad_and_Tobago.svg.png" width="15" alt ="🇹🇹"/>
  I am a Trinbagonian   front-end developer with a background in public service.
-<br/>
-</br>
-</br>
-</br>
-</br>
+<br><br><br><br><br>
 
 
 
@@ -66,11 +62,13 @@
     <td><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
 <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
 <td><img alt="Supabase" src="https://img.shields.io/badge/-supabase-informational?logo=Supabase&style=flat-square&logoColor=32805b&color=32805b&labelColor=000000" /></td>
-
-
-
   </tr>
 </table>
+
+ <!-- Latest Blog Posts -->
+  ## 📕 Latest Blog Posts
+ <!-- BLOG-POST-LIST:START -->
+ <!-- BLOG-POST-LIST:END -->
 
 
 
