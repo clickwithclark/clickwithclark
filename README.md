@@ -68,7 +68,9 @@
  <!-- Latest Blog Posts -->
   ## 📕 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
- <!-- BLOG-POST-LIST:END -->
+- [A Super Short BASIC Guide on Implementing Browser Router in your React Application](https://blog.clickwithclark.com/a-super-short-basic-guide-on-implementing-browser-router-in-your-react-application)
+- [5 Things I Learned Trying To Publish A Simple NPM Package](https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package)
+<!-- BLOG-POST-LIST:END -->
 
 
 
