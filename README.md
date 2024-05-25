@@ -65,6 +65,8 @@
     <td><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
     <td><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
 <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+<td><img alt="Supabase" src="https://img.shields.io/badge/-supabase-informational?logo=Supabase&style=flat-square&logoColor=32805b&color=32805b&labelColor=000000" /></td>
+
 
 
   </tr>
