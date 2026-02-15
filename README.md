@@ -1,8 +1,6 @@
-# Meet Clark  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/188px-Flag_of_Trinidad_and_Tobago.svg.png" width="15" alt ="🇹🇹"/>
- I am a Trinbagonian   front-end developer with a background in public service.
+# Meet Clark <img src="./tt_flag_compressed.svg" width="15" alt ="🇹🇹"/>
 
-
-
+I am a Trinbagonian fullstack developer with a background in public service.
 
 <!-- Social Media -->
 <div id="badges" align="left">
@@ -66,15 +64,15 @@
 </table>
 
  <!-- Latest Blog Posts -->
-  ## 📕 Latest Blog Posts
+
+## 📕 Latest Blog Posts
+
  <!-- BLOG-POST-LIST:START -->
+
 - [A Super Short BASIC Guide on Implementing Browser Router in your React Application](https://blog.clickwithclark.com/a-super-short-basic-guide-on-implementing-browser-router-in-your-react-application)
 - [5 Things I Learned Trying To Publish A Simple NPM Package](https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package)
 - [How to Convert CommonJS Modules to ESM: A Step-by-Step Guide](https://blog.clickwithclark.com/how-to-convert-commonjs-modules-to-esm-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
-
-
-
 
 <!--
 **clickwithclark/clickwithclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
